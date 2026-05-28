@@ -4,15 +4,7 @@
 
 ---
 
-## 📸 Capturas del juego
 
-> _Agrega tus capturas aquí_
-
-| Menú principal | Consulta guiada | Semáforo emocional |
-|:-:|:-:|:-:|
-| ![Menú](screenshots/menu.png) | ![Consulta](screenshots/consulta.png) | ![Semáforo](screenshots/semaforo.png) |
-
----
 
 ## 📖 Descripción
 
